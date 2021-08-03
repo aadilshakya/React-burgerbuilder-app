@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.613a475c.chunk.css",
+    "main.js": "/static/js/main.b953a57c.chunk.js",
+    "main.js.map": "/static/js/main.b953a57c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.859ddf5e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.859ddf5e.js.map",
+    "static/js/2.23dec0dd.chunk.js": "/static/js/2.23dec0dd.chunk.js",
+    "static/js/2.23dec0dd.chunk.js.map": "/static/js/2.23dec0dd.chunk.js.map",
+    "static/js/3.4395a58c.chunk.js": "/static/js/3.4395a58c.chunk.js",
+    "static/js/3.4395a58c.chunk.js.map": "/static/js/3.4395a58c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.613a475c.chunk.css.map": "/static/css/main.613a475c.chunk.css.map",
+    "static/js/2.23dec0dd.chunk.js.LICENSE.txt": "/static/js/2.23dec0dd.chunk.js.LICENSE.txt",
+    "static/media/BurgerLogo.ec69c7f6.png": "/static/media/BurgerLogo.ec69c7f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.859ddf5e.js",
+    "static/js/2.23dec0dd.chunk.js",
+    "static/css/main.613a475c.chunk.css",
+    "static/js/main.b953a57c.chunk.js"
+  ]
+}
